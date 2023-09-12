@@ -1,0 +1,126 @@
+.h5 {
+  margin-bottom: 15rem;
+}
+.deal-of-the-day {
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px;
+  padding: 20px;
+}
+.meet-the-fruit-fair {
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px;
+  padding: 20px;
+}
+#fruits-choose-section {
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px;
+  padding: 20px;
+}
+#first-carousel {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(18, 18, 18, 0.7)),
+    url("/assets/images/team.png");
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+#second-carousel {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(18, 18, 18, 0.7)),
+    url("/assets/images/team.png");
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+#third-carousel {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(18, 18, 18, 0.7)),
+    url("/assets/images/team.png");
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+.p-bottom-text {
+  padding-bottom: 200px;
+}
+
+/* .p-bottom-text-p {
+  padding-bottom: 210px;
+} */
+.f-color {
+  color: #fd6b31;
+}
+#show_bg_2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(18, 18, 18, 0.7)),
+    url("/assets/images/team.png");
+  width: 95%;
+  height: 80vh;
+  background-size: cover;
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+  /* background: rgba(18, 18, 18, 0.7); */
+}
+.meet-heading {
+  color: #fff;
+  text-align: center;
+  font-family: Lato;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.meet-paragraph {
+  color: #fff;
+  text-align: center;
+  font-family: Lato;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+}
+.footer-img {
+  width: 54.517px;
+  height: 60px;
+  flex-shrink: 0;
+}
+.freshBest-heading {
+  color: #121212;
+  text-align: center;
+  leading-trim: both;
+  text-edge: cap;
+  font-family: Lato;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.freshBest-heading-paragraph {
+  color: rgba(18, 18, 18, 0.6);
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 162.5% */
+}
+.why-choose-text {
+  color: #121212;
+  text-align: center;
+  font-family: Lato;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.why-choose-text-p {
+  color: rgba(18, 18, 18, 0.6);
+  text-align: center;
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px; /* 162.5% */
+}
